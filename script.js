@@ -27,6 +27,20 @@ const facts = {
         "The first email was sent by Ray Tomlinson to himself in 1971.",
         "The first webcam watched a coffee pot at Cambridge University.",
         "There are more than 3.5 billion Google searches per day."
+    ],
+    Nature: [
+        "Bananas are berries, but strawberries aren't.",
+        "A single tree can absorb up to 48 pounds of carbon dioxide per year.",
+        "The Amazon rainforest produces 20% of the world's oxygen.",
+        "A bolt of lightning contains enough energy to toast 100,000 slices of bread.",
+        "The world's largest desert is Antarctica."
+    ],
+    Science: [
+        "Water can boil and freeze at the same time, a phenomenon known as the 'triple point'.",
+        "A teaspoon of a neutron star would weigh about 6 billion tons.",
+        "The speed of light is 299,792,458 meters per second.",
+        "Human bones are about five times stronger than steel of the same density.",
+        "The DNA in a single human cell contains about 3 billion base pairs."
     ]
 };
 
