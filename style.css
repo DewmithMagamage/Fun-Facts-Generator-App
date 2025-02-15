@@ -1,7 +1,7 @@
 /* style.css */
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f0f4f8;
+    background-color: #ffeb3b; /* Bright yellow background */
     color: #333;
     text-align: center;
     padding: 20px;
@@ -19,11 +19,11 @@ body {
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-    border: 2px solid #00796b;
+    border: 2px solid #ff5722; /* Orange border */
 }
 
 h1 {
-    color: #00796b;
+    color: #ff5722; /* Orange heading */
     margin-bottom: 20px;
 }
 
@@ -34,21 +34,21 @@ select, button {
     cursor: pointer;
     border: none;
     border-radius: 6px;
-    background-color: #00796b;
+    background-color: #ff5722; /* Orange button */
     color: #ffffff;
     transition: background-color 0.3s ease;
 }
 
 button:hover, select:hover {
-    background-color: #004d40;
+    background-color: #e64a19; /* Darker orange on hover */
 }
 
 #fact-display {
     margin-top: 20px;
     font-size: 18px;
-    color: #00796b;
+    color: #ff5722; /* Orange text */
     padding: 10px;
     border-radius: 6px;
-    background-color: #e0f7fa;
-    border: 1px solid #00796b;
+    background-color: #fff3e0; /* Light orange background */
+    border: 1px solid #ff5722;
 }
